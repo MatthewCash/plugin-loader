@@ -1,0 +1,7 @@
+name: PluginLoader
+description: Server Plugin Loader for Matthew_Cash Network
+author: Matthew_Cash
+website: matthew-cash.com
+prefix: PluginLoader
+version: 1.0.0
+main: com.matthewcash.network.PluginLoader
